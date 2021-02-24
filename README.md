@@ -1,4 +1,4 @@
-"Its all About Me.."
+"It's all About Me..."
 
 I’m a Pre-final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.
 
