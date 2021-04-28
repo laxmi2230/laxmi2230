@@ -8,11 +8,11 @@
 
 - ⚡ Fun fact **A developer ,In love with software.....**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></p> <br>
 
 <br>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=laxmi2230&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
-
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmi2230&" alt="laxmi2230" /></p>
