@@ -16,4 +16,4 @@
 
 <br>
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmi2230&" alt="laxmi2230" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmi2230&" alt="laxmi2230" /></p>
