@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></p>
+<p><h1><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></h1></p>
 
 <br>
 
