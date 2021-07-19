@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxmi Menon</h1>
-<h3 align="center">"It's @ll About Me..." <br>
+<h3 align="center">"It's @ll About Me.." <br>
   I’m @ Pre-final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.</h3>
 
 - 🌱 I’m currently learning **new skills and trying to improve my skills**
@@ -12,7 +12,7 @@
 
 <br>
 
-<p><h1><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></h1></p>
+<h1><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi2230&show_icons=true&locale=en&layout=compact" alt="laxmi2230" /></h1>
 
 <br>
 
