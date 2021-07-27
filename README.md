@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laxmi Menon</h1>
 <h3 align="center">"It's @ll About Me.." <br>
-  I’m @ Pre-final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.</h3>
+  I’m @ Final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.</h3>
 
 - 🌱 I’m currently learning **new skills and trying to improve my skills**
 
